@@ -1,0 +1,12 @@
+﻿torch
+transformers
+sentence-transformers
+chromadb
+networkx
+pandas
+numpy
+scikit-learn
+docling
+crewai
+langchain
+langchain-community
